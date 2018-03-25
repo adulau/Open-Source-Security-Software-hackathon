@@ -7,6 +7,11 @@ what has been done at each hackathon session.
 The objective is also to support other hackathons willing to start their own and reuse the
 materials/ideas.
 
+# Support materials
+
+- Introduction presentation to the OS3 hackathon. [PDF](https://github.com/adulau/Open-Source-Security-Software-hackathon/blob/master/archive/OS3-20180326/intro-international.pdf) [LaTeX source](https://github.com/adulau/Open-Source-Security-Software-hackathon/tree/master/templates/intro-slides)
+- Template for the EtherPad - [Markdown](https://github.com/adulau/Open-Source-Security-Software-hackathon/blob/master/templates/etherpad/template.md)
+
 # Archive
 
 - 3rd edition OS3 hackathon - 26th March 2018 at circl.lu - Luxembourg and Japan
